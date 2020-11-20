@@ -1,0 +1,2 @@
+#this program has a bug where when a line is completed it deletes one extra line of blocks for each line that it should delete, I have gone through the tutorial for this exactly
+#as the tutorial does and there are no mistakes so I have no idea what went wrong
